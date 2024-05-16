@@ -1,10 +1,10 @@
-Gamely - Create Manage Matches
+Gamely - Let's Play Worldwide
 
 
 
 #---------- HEADER ----------#
 
-Exclusive Black Friday ! Offer 
+Exclusive Cricketmania! Offer 
 10 
 Days
 
@@ -56,9 +56,9 @@ aria-label = close search
 
 World Gaming
 
-Create Manage Matches
+Let's Play Worldwide
 
-Find technology or people for digital projects in public sector and Find an individual specialist develope researcher.
+Find a specialist developer for digital projects in the public sector.
 
 Read More
 
@@ -211,7 +211,7 @@ alt = Shooter Action Video
 Admin
 
 <ion-icon name="calendar-outline"></ion-icon>
-September 19, 2022
+May 16, 2022
 
 Shooter Action Video
 
