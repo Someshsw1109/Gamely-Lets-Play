@@ -45,4 +45,5 @@ If you want to contact with me you can reach me at [Somesh Raj](https://twitter.
 
 ### License
 
-This project is **free to use** and does not contains any license.
+This project is licensed under the
+MIT License
